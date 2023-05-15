@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="join_account">Entre na sua conta</string>
+    <string name="dont_have_account">Não tem uma conta?</string>
+    <string name="create_her">Crie uma</string>
+    <string name="have_account">Já tem uma conta?</string>
+    <string name="join_her">Entre nela</string>
+
+</resources>
